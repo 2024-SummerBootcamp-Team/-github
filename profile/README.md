@@ -62,14 +62,18 @@
 
 ## 📡 API
 
-스웨거 이미지
+<img width="1452" alt="스크린샷 2024-07-30 오전 4 57 07" src="https://github.com/user-attachments/assets/31f96ea1-8437-4ab6-a1b2-8e2b5ef28e4a">
+<img width="1437" alt="스크린샷 2024-07-30 오전 4 57 29" src="https://github.com/user-attachments/assets/831feb93-64d1-48ea-99e7-430086c0ead5">
+<img width="1458" alt="스크린샷 2024-07-30 오전 4 57 54" src="https://github.com/user-attachments/assets/4b39525e-e23b-4537-b352-2d31ba40d85d">
 
 <br>
 
 ## 🖥️ Monitoring Tools
 > Prometheus & Grafana
 
-모니터링 이미지
+<img width="1147" alt="스크린샷 2024-07-29 오후 3 42 41" src="https://github.com/user-attachments/assets/d52cf9fc-89e7-4258-92f2-924cb50c9e05">
+<img width="948" alt="스크린샷 2024-07-29 오후 3 51 43" src="https://github.com/user-attachments/assets/6fc5424d-d95f-43bc-949a-0d353f00295a">
+
 
 <br>
 
