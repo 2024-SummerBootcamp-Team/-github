@@ -41,12 +41,29 @@
 
 ## 🎥 Demo
 ### 메인페이지
-![메인페이지Demo](https://github.com/user-attachments/assets/fbd0766b-9362-4bb0-8a2c-cfec4bfc7a2c)
+![메인페이지](https://github.com/user-attachments/assets/fbd0766b-9362-4bb0-8a2c-cfec4bfc7a2c)
+
+<br>
+
+### 채팅방 ( 🔊 소리필수!! )
+
+https://github.com/user-attachments/assets/00974c17-6019-41d1-88cb-2e9d533408ae
+
+
+
+<br>
+
+### 카카오톡 공유 ( 🔊 소리필수!! )
+
+https://github.com/user-attachments/assets/ddb28e65-ce09-4054-87b1-95d76963e043
+
+
+
 
 <br>
 
 ### 대시보드
-![대시보드Demo](https://github.com/user-attachments/assets/c46c8797-daf5-4a27-ba77-514b9d5de28c)
+![대시보드](https://github.com/user-attachments/assets/c46c8797-daf5-4a27-ba77-514b9d5de28c)
 
 
 <br>
