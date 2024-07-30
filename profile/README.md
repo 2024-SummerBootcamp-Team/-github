@@ -81,8 +81,9 @@
       <img width="1120" alt="image" src="https://github.com/user-attachments/assets/414827d0-d730-45cc-905c-66a072b085bf">
     </td>
     <td>
-      <img width="347" alt="b" src="https://github.com/user-attachments/assets/7ac5ecbf-77a0-4f20-8fc8-94d63c9dfee1">
-    </td>
+     <img width="458" alt="image" src="https://github.com/user-attachments/assets/d4ff16f6-2fd7-4110-aa6f-14a885bad543">
+
+  
   </tr>
 </table>
 
