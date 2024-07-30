@@ -45,8 +45,9 @@
 
 <br>
 
-### 주요기능 2 
-데모 영상
+### 대시보드
+![대시보드Demo](https://github.com/user-attachments/assets/c46c8797-daf5-4a27-ba77-514b9d5de28c)
+
 
 <br>
 
