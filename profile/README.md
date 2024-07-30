@@ -64,9 +64,11 @@
 
 ## 📡 API
 
-<img width="1452" alt="스크린샷 2024-07-30 오전 4 57 07" src="https://github.com/user-attachments/assets/31f96ea1-8437-4ab6-a1b2-8e2b5ef28e4a">
-<img width="1437" alt="스크린샷 2024-07-30 오전 4 57 29" src="https://github.com/user-attachments/assets/831feb93-64d1-48ea-99e7-430086c0ead5">
-<img width="1458" alt="스크린샷 2024-07-30 오전 4 57 54" src="https://github.com/user-attachments/assets/4b39525e-e23b-4537-b352-2d31ba40d85d">
+<img width="1462" alt="스크린샷 2024-07-30 오후 3 25 06" src="https://github.com/user-attachments/assets/ed27d35d-1025-4d46-b528-36cb9f683473">
+<img width="1449" alt="스크린샷 2024-07-30 오후 3 25 21" src="https://github.com/user-attachments/assets/9704bb78-5e56-4951-87a4-6478429c74f1">
+<img width="1448" alt="스크린샷 2024-07-30 오후 3 25 36" src="https://github.com/user-attachments/assets/d7342195-f2c1-46fa-be83-cbfc56146460">
+
+
 
 <br>
 
