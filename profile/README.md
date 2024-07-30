@@ -117,7 +117,9 @@
       <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=AMAZONEC2&logoColor=white"/></br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/elastic_load_balancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white"/>
+      <img src="https://img.shields.io/badge/elastic_load_balancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/AWS_CodeDeploy-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/CloudFront-003399?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
