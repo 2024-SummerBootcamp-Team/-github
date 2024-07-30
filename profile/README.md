@@ -71,10 +71,18 @@
 <br>
 
 ## 🖥️ Monitoring Tools
-> Prometheus & Grafana
+>   Grafana & Slack
 
-<img width="1147" alt="스크린샷 2024-07-29 오후 3 42 41" src="https://github.com/user-attachments/assets/d52cf9fc-89e7-4258-92f2-924cb50c9e05">
-<img width="948" alt="스크린샷 2024-07-29 오후 3 51 43" src="https://github.com/user-attachments/assets/6fc5424d-d95f-43bc-949a-0d353f00295a">
+<table>
+  <tr>
+    <td>
+      <img width="1120" alt="image" src="https://github.com/user-attachments/assets/414827d0-d730-45cc-905c-66a072b085bf">
+    </td>
+    <td>
+      <img width="347" alt="b" src="https://github.com/user-attachments/assets/7ac5ecbf-77a0-4f20-8fc8-94d63c9dfee1">
+    </td>
+  </tr>
+</table>
 
 
 <br>
