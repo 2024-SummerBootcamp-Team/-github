@@ -57,6 +57,14 @@ https://github.com/user-attachments/assets/00974c17-6019-41d1-88cb-2e9d533408ae
 
 https://github.com/user-attachments/assets/ddb28e65-ce09-4054-87b1-95d76963e043
 
+<br>
+
+### 발췌 이미지 생성
+
+
+https://github.com/user-attachments/assets/4a70866f-6c0f-491e-bb98-f918e28b62cf
+
+
 
 
 
