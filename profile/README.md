@@ -279,4 +279,4 @@ https://github.com/user-attachments/assets/ddb28e65-ce09-4054-87b1-95d76963e043
 <br>
 
 ## 📝 Blog
-미디엄 링크
+[Medium](https://medium.com/@dongmin11566/2024-siliconvalley-summer-bootcamp-brainwasher-korean-abdf9b5c7ce8)
